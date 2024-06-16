@@ -12,4 +12,5 @@ Simple Todo application built with HTML, CSS, and JavaScript.
 - Add new todo items.
 - Display list of added todo items.
 - Delete todo items from the list.
+
 https://x1nell.github.io/praktik3/
